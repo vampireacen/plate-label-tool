@@ -1,0 +1,10 @@
+E:\Code\C#\License_Plate\bin\Debug\License_Plate.exe.config
+E:\Code\C#\License_Plate\bin\Debug\License_Plate.exe
+E:\Code\C#\License_Plate\bin\Debug\License_Plate.pdb
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.csproj.AssemblyReference.cache
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.Form1.resources
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.Properties.Resources.resources
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.csproj.GenerateResource.cache
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.csproj.CoreCompileInputs.cache
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.exe
+E:\Code\C#\License_Plate\obj\Debug\License_Plate.pdb
